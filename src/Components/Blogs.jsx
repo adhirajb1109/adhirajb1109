@@ -13,7 +13,7 @@ export default function Blogs() {
             query {
               user(username:"adhirajwrites") {
                 publication {
-                    posts() {
+                    posts {
                        title
                        brief
                        slug
