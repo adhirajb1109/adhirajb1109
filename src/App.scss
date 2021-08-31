@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
+.App {
+  margin: auto;
+}
+* {
+  font-family: "Quicksand";
+  font-weight: "bold";
+}
+nav {
+  background: transparent !important;
+}
+.skills {
+  height: 60px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.skilldiv {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+.form-control {
+  width: 50%;
+  margin: auto;
+}
+.work {
+  overflow-x: hidden;
+}
+.about-img {
+  border: 4px solid black;
+  display: block;
+  height: 200px;
+}
+@media (max-width: 1080px) {
+  #asd {
+    display: none;
+  }
+  .skills {
+    height: 40px;
+  }
+  .form-control {
+    width: 75%;
+  }
+  .svg {
+    display: none;
+  }
+}
+.keyskills {
+  font-size: larger !important;
+}
+.skill {
+  margin-bottom: 30px;
+}
+svg {
+  height: 1.5rem;
+}
+.coding {
+  height: 1rem;
+}
+.my-intro {
+  font-size: larger;
+}
+.i {
+  height: 1.25rem;
+}
+h5 {
+  font-size: larger;
+}
+h1 {
+  font-weight: bold !important;
+}
+p {
+  font-weight: bold !important;
+}
