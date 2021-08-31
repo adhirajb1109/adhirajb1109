@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Accordion from "./Accordion";
+import { ApolloClient, InMemoryCache, gql } from '@apollo/client';
 export const Home = () => {
   const style = {
     height: "300px",
@@ -20,37 +21,30 @@ export const Home = () => {
         setProjects(data);
       });
   }, [projects]);
-  async function gql(query, variables = {}) {
-    const data = await fetch('https://api.hashnode.com/', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        query,
-        variables
-      })
-    });
-    return data.json();
-  }
-  const articles = `
-    query GetUserArticles($page: Int!) {
-        user(username: "adhirajwrites") {
-            publication {
-                posts(page: $page) {
-                    title
-                    brief
-                    slug
+  const client = new ApolloClient({
+    cache: new InMemoryCache(),
+    uri: 'https://api.hashnode.com/'
+  });
+  const [blogs, setBlogs] = useState([]);
+  async function fetchPosts() {
+    const { data } = await client.query({
+      query: gql`
+            query {
+              user(username:"adhirajwrites") {
+                publication {
+                    posts(page:0) {
+                       title
+                       brief
+                       slug
+                    }
                 }
             }
-        }
-    }
-`;
-  const [blogs, setBlogs] = useState([]);
-
-  gql(articles, { page: 0 }).then((result) => {
-    const articles = result.data.user.publication.posts
-    setBlogs(articles);
+        }`
+    });
+    setBlogs(data.user.publication.posts)
+  }
+  useEffect(() => {
+    fetchPosts();
   })
   return (
     <div className="mx-4 animate__animated animate__lightSpeedInLeft">
@@ -114,6 +108,7 @@ export const Home = () => {
           <div
             className="card mb-4 me-5 mt-3 d-inline-block"
             style={{ width: "21rem" }}
+            key={project.repo}
           >
             <div className="card-body">
               <h5 className="card-title">
@@ -137,6 +132,7 @@ export const Home = () => {
           <div
             className="card mb-4 me-5 mt-4 d-inline-block"
             style={{ width: "21rem" }}
+            key={blog.title}
           >
             <div className="card-body">
               <h5 className="card-title">

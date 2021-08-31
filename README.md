@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **FaunaDB**
+- 🌱 I’m currently learning **Strapi**
 
 
 
