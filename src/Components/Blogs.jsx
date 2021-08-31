@@ -44,6 +44,7 @@ export default function Blogs() {
                                 className="text-decoration-none text-dark"
                                 href={`https://adhirajwrites.hashnode.dev/${blog.slug}`}
                                 target="_blank"
+                                rel="noreferrer"
                             >
                                 {blog.title}
                             </a>

@@ -115,6 +115,8 @@ export const Home = () => {
                 <a
                   className="text-decoration-none text-dark"
                   href={project.link}
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   {project.repo.replaceAll("-", " ")}
                 </a>
@@ -140,6 +142,7 @@ export const Home = () => {
                   className="text-decoration-none text-dark"
                   href={`https://adhirajwrites.hashnode.dev/${blog.slug}`}
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {blog.title}
                 </a>
