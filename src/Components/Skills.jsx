@@ -27,6 +27,11 @@ export default function Skills() {
           />
           <img
             className="skills"
+            src="https://www.markusantonwolf.com/topics/tailwind-css/tailwind-css-logo.svg"
+            alt="Tailwind"
+          />
+          <img
+            className="skills"
             src="https://rstudio.github.io/sass/reference/figures/logo.svg"
             alt="SASS"
           />
@@ -34,6 +39,11 @@ export default function Skills() {
             className="skills"
             src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"
             alt="JavaScript"
+          />
+          <img
+            className="skills"
+            src="https://i.ibb.co/z6XMPdn/1-Tpbx-EQy4ck-B-g31-Pw-UQPlg.png"
+            alt="TypeScript"
           />
           <img
             className="skills"
@@ -49,6 +59,16 @@ export default function Skills() {
             className="skills"
             src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png"
             alt="Firebase"
+          />
+          <img
+            className="skills"
+            src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ndjjv1cj4s32fp8fwslu"
+            alt="Strapi"
+          />
+          <img
+            className="skills"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"
+            alt="GraphQL"
           />
         </div>
         <h3 className="pb-4 ">Version Control Technologies :</h3>

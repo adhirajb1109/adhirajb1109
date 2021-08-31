@@ -28,11 +28,15 @@ function Accordion() {
                 <li class="list-group-item">HTML</li>
                 <li class="list-group-item">CSS</li>
                 <li class="list-group-item">Bootstrap</li>
+                <li class="list-group-item">Tailwind</li>
                 <li class="list-group-item">Sass</li>
                 <li class="list-group-item">JavaScript</li>
+                <li class="list-group-item">TypeScript</li>
                 <li class="list-group-item">React</li>
                 <li class="list-group-item">Next.js</li>
                 <li class="list-group-item">Firebase</li>
+                <li class="list-group-item">Strapi</li>
+                <li class="list-group-item">GraphQL</li>
               </ul>
             </div>
           </div>
