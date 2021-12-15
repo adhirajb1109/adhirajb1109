@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Strapi**
+- 🌱 I’m currently learning **Rust & Go**
 
 
 
