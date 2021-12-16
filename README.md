@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Bhatia</h1>
-<h3 align="center">A preteen full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/adhirajb1109" target="blank"><img src="https://img.shields.io/twitter/follow/adhirajb1109?logo=twitter&style=for-the-badge" alt="adhirajb1109" /></a> </p>
 
