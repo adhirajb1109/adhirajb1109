@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available [**my portfolio**](https://adhirajbhatia.vercel.app/work) .
+- 👨‍💻 All of my projects are available on [**my portfolio**](https://adhirajbhatia.vercel.app/work) .
 
 - 📝 I regularly write articles on [**my blog**](https://adhirajwrites.hashnode.dev) .
 
