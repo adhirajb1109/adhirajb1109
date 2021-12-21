@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Bhatia</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/adhirajb1109" target="blank"><img src="https://img.shields.io/twitter/follow/adhirajb1109?logo=twitter&style=for-the-badge" alt="adhirajb1109" /></a></p>
-
 - 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available on [**my portfolio**](https://adhirajbhatia.vercel.app/work) .
@@ -13,8 +11,8 @@
 
 - 📫 How to reach me **adhirajb1109@gmail.com**
 
-- ⚡ Fun fact - **I am a guitarist 🎸**
-
+- ⚡ Fun fact - **I can solve a Rubik 's Cube in under 1️⃣ minute .**
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <table> 
@@ -43,9 +41,7 @@
     <td><img align="center" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /></td>
   </tr>
 </table>
-<h3 align="left">Stats :</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhirajbhatia&show_icons=true&locale=en" alt="adhirajbhatia" /></p>
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhirajbhatia&show_icons=true&locale=en" alt="adhirajbhatia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhirajbhatia&" alt="adhirajbhatia" /></p>
