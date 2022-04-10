@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Bhatia</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available on [**my portfolio**](https://adhirajbhatia.vercel.app/work) .
 
