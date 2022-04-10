@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Bhatia</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack engineer from India</h3>
+
+<p align="left">
+  <a href="https://twitter.com/adhirajb1109" target="blank"><img src="https://img.shields.io/twitter/follow/adhirajb1109?logo=twitter&style=for-the-badge" alt="adhirajb1109" />
+  </a> 
+</p>
+
+- 🔭 I’m currently working on [Dreamweb](https://github.com/dreamwebHQ)
 
 - 🌱 I’m currently learning **Rust**
 
@@ -11,7 +18,22 @@
 
 - 📫 How to reach me **adhirajb1109@gmail.com**
 
-- ⚡ Fun fact - **I can solve a Rubik 's Cube in under 1️⃣ minute .**
+- ⚡ Fun fact - **I am a Guitarist 🎸**
+<hr>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/adhirajbhatia" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adhirajbhatia" height="30" width="40" />
+</a>
+<a href="https://twitter.com/adhirajb1109" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhirajb1109" height="30" width="40" />
+</a>
+<a href="https://hashnode.com/@adhirajwrites" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@adhirajwrites" height="30" width="40" />
+</a>
+</p>
+
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <br>
@@ -42,6 +64,7 @@
   </tr>
 </table>
 <hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhirajbhatia&show_icons=true&locale=en" alt="adhirajbhatia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhirajbhatia&" alt="adhirajbhatia" /></p>
