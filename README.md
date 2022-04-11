@@ -22,18 +22,23 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/adhirajbhatia" target="blank">
+<table> 
+  <tr>
+    <td><a href="https://dev.to/adhirajbhatia" target="blank">
   <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)" alt="adhirajbhatia" />
-</a>
-<a href="https://twitter.com/adhirajb1109" target="blank">
+</a></td>
+    <td>
+      <a href="https://twitter.com/adhirajb1109" target="blank">
   <img align="center" src="https://img.shields.io/badge/adhirajb1109-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="adhirajb1109" />
 </a>
-<a href="https://hashnode.com/@adhirajwrites" target="blank">
+    </td>
+    <td>
+      <a href="https://hashnode.com/@adhirajwrites" target="blank">
   <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@adhirajwrites" />
 </a>
-</p>
-
+    </td>
+  </tr>
+  </table>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <br>
