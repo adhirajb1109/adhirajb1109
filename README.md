@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack engineer from India</h3>
 
 <p align="left">
-  <a href="https://twitter.com/adhirajb1109" target="blank"><img src="https://img.shields.io/twitter/follow/adhirajb1109?logo=twitter&style=for-the-badge" alt="adhirajb1109" />
+  <a href="https://twitter.com/adhirajb1109" target="blank"><img src="https://img.shields.io/badge/adhirajb1109-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="adhirajb1109" />
   </a> 
 </p>
 
@@ -24,13 +24,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/adhirajbhatia" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adhirajbhatia" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)" alt="adhirajbhatia" />
 </a>
 <a href="https://twitter.com/adhirajb1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhirajb1109" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/adhirajb1109-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="adhirajb1109" />
 </a>
 <a href="https://hashnode.com/@adhirajwrites" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@adhirajwrites" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@adhirajwrites" />
 </a>
 </p>
 
@@ -42,11 +42,23 @@
     <td><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </td>
     <td><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </td>
     <td><img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> </td>
-    <td><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
+    <td><img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
   </tr>
   <tr>
-    <td><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </td>
-    <td><img align="center" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
+    <td><img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </td>
+    <td><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> </td>
+    <td><img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> </td>
+    <td><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+  </tr>
+  <tr>
+    <td><img align="center" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> </td>
+    <td><img align="center" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></td>
+    <td><img align="center" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></td>
+    <td><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> </td>
+    <td><img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></td>
     <td><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
     <td><img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></td>
   </tr>
@@ -58,7 +70,7 @@
   </tr>
   <tr>
     <td><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
-    <td><img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /></td>
+    <td><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
     <td><img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
     <td><img align="center" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /></td>
   </tr>
