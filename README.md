@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Bhatia</h1>
-<h3 align="center">A passionate full stack engineer from India</h3>
-
-<p align="left">
-  <a href="https://twitter.com/adhirajb1109" target="blank"><img src="https://img.shields.io/badge/adhirajb1109-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="adhirajb1109" />
-  </a> 
-</p>
+<h3 align="center">A Passionate Full Stack Engineer ⚡️</h3>
 
 - 🔭 I’m currently working on [Dreamweb](https://github.com/dreamwebHQ)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available on [**my portfolio**](https://adhirajbhatia.vercel.app/work) .
+- 👨‍💻 All of my projects are available on [**my portfolio**](https://adhiraj.site/work) .
 
-- 📝 I regularly write articles on [**my blog**](https://adhirajwrites.hashnode.dev) .
+- 📝 I regularly write articles on [**my blog**](https://blog.adhiraj.site/) .
 
 - 💬 Ask me about **Web Development & Linux**
 
