@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=600&height=80&lines=Hi+%2C+I+am+Adhiraj+Bhatia+!;A+Full+Stack+Engineer+From+India+%3A)" align="center" />
 
-- 🔭 I’m currently working on [Dreamweb](https://github.com/dreamwebHQ) .
+- 🔭 I’m currently working on [**Dreamweb**](https://dreamweb.live) .
 
-- 🌱 I’m currently learning **Data Structures & Algorithms** .
+- 🌱 I’m currently learning [**Rust**](https://rust-lang.org) .
 
 - 👨‍💻 All of my projects are available on [**my portfolio**](https://adhiraj.site/work) .
 
@@ -26,6 +26,7 @@
 </a>
 <hr>
 <h3 align="left">My Skills 💪</h3>
+<p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
@@ -49,7 +50,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+ </p>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=adhirajbhatia&show_icons=true&locale=en" alt="adhirajbhatia" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhirajbhatia&" alt="adhirajbhatia" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adhirajbhatia" alt="adhirajbhatia" />
