@@ -1,10 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=600&height=80&lines=Hi+%2C+I+am+Adhiraj+Bhatia+!;A+Full+Stack+Engineer+From+India+%3A)" align="center" />
 
-- 🔭 I’m currently working on [**Dreamweb**](https://dreamweb.live) .
+- 🔭 I’m currently working on [**Dreamweb**](https://dreamweb.so/) .
 
-- 🌱 I’m currently learning [**Rust**](https://rust-lang.org) .
+- 🌱 I’m currently learning [**Rust**](https://rust-lang.org/) .
 
-- 👨‍💻 All of my projects are available on [**my portfolio**](https://adhiraj.site/work) .
+- 👨‍💻 All of my projects are available on [**my portfolio**](https://adhiraj.site/work/) .
 
 - 📝 I regularly write articles on [**my blog**](https://blog.adhiraj.site/) .
 
@@ -12,7 +12,7 @@
 
 - 📫 Reach out to me at [**my email**](mailto:adhirajb1109@gmail.com) .
 
-- ⚡ Fun fact - **I am a Guitarist 🎸**
+- ⚡ Fun fact - **I am a bookworm 📖**
 <hr>
 <h3 align="left">Let 's Connect 💬</h3>
 <a href="https://dev.to/adhirajbhatia" target="_blank">
