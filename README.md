@@ -56,5 +56,5 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=adhirajbhatia&show_icons=true&title_color=8FBCBB&icon_color=D8DEE9&text_color=88C0D0&bg_color=2E3440&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=adhirajb1109&show_icons=true&title_color=8FBCBB&icon_color=D8DEE9&text_color=88C0D0&bg_color=2E3440&count_private=true&layout=compact" />
 
