@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning [**Rust**](https://rust-lang.org/) .
 
-- 👨‍💻 All of my projects are available on [**my portfolio**](https://adhiraj.site/work/) .
+- 👨‍💻 All of my projects are available on [**my GitHub profile**](https://github.com/adhirajb1109?tab=repositories) .
 
 - 📝 I regularly write articles on [**my blog**](https://blog.adhiraj.site/) .
 
